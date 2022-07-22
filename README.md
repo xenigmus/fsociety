@@ -146,7 +146,7 @@ docker-compose down # destroys instance
 
 [![asciicast](https://asciinema.org/a/URj2nvpbYpeJyJe43KlASZ7fz.png)](https://asciinema.org/a/URj2nvpbYpeJyJe43KlASZ7fz)
 
-![alt logo](https://media.giphy.com/media/xT0xeFxyHAKirrLa24/giphy.gif)
+]
 
 # Contributors
 
