@@ -1,0 +1,18 @@
+title: fsociety
+tagline: A Penetration Testing Framework
+author: fsociety-team
+url: https://fsociety.dev
+permalink: pretty
+
+remote_theme: pmarsceill/just-the-docs
+color_scheme: nil
+logo: "/images/logo.png"
+aux_links:
+  "fsociety on GitHub":
+    - "https://github.com/fsociety-team/fsociety"
+footer_content: "Copyright &copy; 2022 fsociety-team. Distributed with the <a href=\"https://github.com/fsociety-team/fsociety/tree/main/LICENSE\">MIT license.</a>"
+
+ga_tracking: UA-111350566-3
+
+plugins:
+  - jekyll-seo-tag
