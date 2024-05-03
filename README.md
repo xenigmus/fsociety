@@ -5,10 +5,8 @@
 ![Docker](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?style=flat-square) 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/enigmaDEVELOPERZ/fsociety/blob/master/LICENSE)
 
-A Penetration Testing Framework, you will have every script that a hacker needs. Works with Python 2. For a Python 3 version see our updated version at [`fsociety-team/fsociety`](https://github.com/fsociety-team/fsociety).
-
-## Fsociety Contains All Tools Used in Mr. Robot Series
-
+A Penetration Testing Framework, you will have every script that a hacker needs. Works with Python 2. For a Python 3 we are working on it. 
+## Fsociety Contains All Commonly Used Tools
 [![Mr. Robot](http://nikolaskama.me/content/images/2016/07/mr-robot-1.gif)](https://wikipedia.org/wiki/Mr._Robot)
 
 ## Menu
