@@ -146,26 +146,5 @@ docker-compose down # destroys instance
 
 ]
 
-# Contributors
 
-[ENI9MA](https://github.com/enigmaDEVELOPERZ)
 
-[alexcreek](https://github.com/alexcreek)
-
-[mswell](https://github.com/mswell)
-
-[Ev3](https://github.com/Ev3)
-
-[huangsam](https://github.com/huangsam)
-
-[RyanFilho](https://github.com/RyanFilho)
-
-[gabru-md](https://github.com/gabru-md)
-
-[jdrago999](https://github.com/jdrago999)
-
-[CRO-TheHacker](https://github.com/CRO-THEHACKER)
-
-# License
-
-[MIT Licence](https://github.com/Manniso/fsociety/blob/master/LICENSE)
