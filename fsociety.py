@@ -140,7 +140,7 @@ class fsociety:
         self.createFolders()
         print (fsocietylogo + color.RED + '''
        }--------------{+} Coded By Eni9ma {+}--------------{
-       }--------{+}  GitHub.com/enigmaDEVELOPERZ/fsociety {+}--------{
+       }--------{+}  GitHub.com/xenigmus/fsociety {+}--------{
     ''' + color.END + '''
        {1}--Information Gathering
        {2}--Password Attacks
